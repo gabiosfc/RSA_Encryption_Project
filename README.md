@@ -16,7 +16,7 @@ The project includes the following features:
 
 ### Comprovando a Execução do Projeto
 
-```markdown
+
 ## Execution
 <div align="center">
   <img src="./images/execucao_rsa.png" alt="Screenshot" width="400"/>
