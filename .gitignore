@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow only these directories and files
+!src/
+!src/**
+!images/
+!images/**
+!*.md
+!.gitignore
+
+# Ignore specific files in these directories
+src/__pycache__/
+*.py[cod]
